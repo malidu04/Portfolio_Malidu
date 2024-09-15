@@ -11,6 +11,7 @@
   "dependencies": {
     "@react-three/drei": "^9.112.0",
     "@react-three/fiber": "^8.17.7",
+    "@sentry/node": "^8.30.0",
     "@tabler/icons-react": "^3.16.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.5.4",
@@ -30,6 +31,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/react-lottie": "^1.2.10",
     "eslint": "^8",
     "eslint-config-next": "14.2.10",
     "postcss": "^8",
